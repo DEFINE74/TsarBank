@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register">
+      <UniqueIdentifier>{d6934d4f-3a1a-431f-b8da-cc255296bc61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register\Main">
+      <UniqueIdentifier>{360676e7-72a7-4e64-8c56-a75aa140f196}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register\Messages">
+      <UniqueIdentifier>{02425c7a-9316-4d38-ba9a-ec03167d0946}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Menu">
+      <UniqueIdentifier>{2d7fe94d-0ec5-4c82-a1bc-ede4cb57fa59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Menu\Main">
+      <UniqueIdentifier>{9ad740fc-9874-4f7f-b0a8-0a2baec3304f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Menu\Messages">
+      <UniqueIdentifier>{c9c22cc7-d3b8-4d17-8cd5-62cc5401ad02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Check Balance">
+      <UniqueIdentifier>{be9a946e-5de2-4e17-9bf6-d890097023a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Deposit">
+      <UniqueIdentifier>{0dc553cb-0795-4bc2-b3b7-31ea39aa5ed9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Deposit\Deposit Redirector">
+      <UniqueIdentifier>{bfcd97c3-8ecb-4a2d-922d-c3f4f61e6cba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Deposit\Deposit Redirector\Main">
+      <UniqueIdentifier>{2562bb6a-0303-49aa-8ff9-4449cc099787}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Deposit\Deposit Redirector\Messages">
+      <UniqueIdentifier>{155377d1-42fc-4b62-8a10-6f091e8fdf60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Deposit\Deposit Card">
+      <UniqueIdentifier>{e906ff03-8914-4113-b4eb-ea7a01f5b2aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Deposit\Deposit Card\Main">
+      <UniqueIdentifier>{3752820f-8f54-4048-9df2-bea96c129955}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Deposit\Deposit Card\Messages">
+      <UniqueIdentifier>{15c85468-9ea8-400f-93d2-3c914d8cd4ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Deposit\Deposit Phone">
+      <UniqueIdentifier>{f089ca4f-1c66-4c08-befb-f7e906de4a92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Deposit\Deposit Phone\Main">
+      <UniqueIdentifier>{5e6b812a-276e-4a00-8e55-292f0ec19111}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Deposit\Deposit Phone\Messages">
+      <UniqueIdentifier>{d18d5523-17d1-490a-80d7-538c354faa69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Stuff">
+      <UniqueIdentifier>{0bd71054-9f90-46f1-9231-5553e61d5590}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register\Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register\Файлы ресурсов\Register">
+      <UniqueIdentifier>{3f9f52b8-d3fd-4a63-9aac-ecf0aa4df32f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register\Файлы ресурсов\Register\Main">
+      <UniqueIdentifier>{a225c398-5057-4074-a18d-18e135bde651}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register\Файлы ресурсов\Register\Messages">
+      <UniqueIdentifier>{73745ca0-e56b-44f6-85a9-64579cdfec22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register\Файлы ресурсов\Menu">
+      <UniqueIdentifier>{768d5b7b-5284-4a2d-862b-4922a7b8f791}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register\Файлы ресурсов\Menu\Main">
+      <UniqueIdentifier>{4aa5d49f-5a45-462f-b25e-8963c6591f4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register\Файлы ресурсов\Menu\Messages">
+      <UniqueIdentifier>{717502b0-0a46-49ec-bfc7-0827d7cb4867}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register\Файлы ресурсов\Check Balance">
+      <UniqueIdentifier>{e8587dec-2bb4-4148-b72a-b8f90973daa8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register\Файлы ресурсов\Check Balance\Main">
+      <UniqueIdentifier>{a522d7e7-fd04-4515-a141-ea2ee2cf965a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register\Файлы ресурсов\Deposit">
+      <UniqueIdentifier>{f32b8268-c3c3-4623-8162-4a3a5b80b432}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register\Файлы ресурсов\Deposit\Deposit Card">
+      <UniqueIdentifier>{5628c106-34d3-4ef8-98e9-18996c4f5d09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register\Файлы ресурсов\Deposit\Deposit Card\Main">
+      <UniqueIdentifier>{d107e948-8003-4925-9a55-9ef63ebb30c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register\Файлы ресурсов\Deposit\Deposit Card\Messages">
+      <UniqueIdentifier>{af59b28e-c373-4035-ae84-9eabe45eada0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register\Файлы ресурсов\Deposit\Deposit Phone">
+      <UniqueIdentifier>{a4bab157-f453-44be-90bb-0f332a46255a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register\Файлы ресурсов\Deposit\Deposit Phone\Main">
+      <UniqueIdentifier>{bb8eb670-18a7-45c5-b815-2618552330a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register\Файлы ресурсов\Deposit\Deposit Phone\Messages">
+      <UniqueIdentifier>{c8981491-5abc-434a-a972-06072a18729a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register\Файлы ресурсов\Deposit\Deposit Redirector">
+      <UniqueIdentifier>{7bca478c-ace2-4515-837b-62669cdf9388}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register\Файлы ресурсов\Deposit\Deposit Redirector\Main">
+      <UniqueIdentifier>{a2bd5124-26a4-450d-a416-c3ef34ffd301}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Register\Файлы ресурсов\Deposit\Deposit Redirector\Messages">
+      <UniqueIdentifier>{02c3d8e4-315a-4711-b5a8-7599c7a5220f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ConsoleApplication1.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="key.cpp">
+      <Filter>Файлы заголовков\Register\Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="user.cpp">
+      <Filter>Файлы заголовков\Register\Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="other.cpp">
+      <Filter>Файлы заголовков\Register\Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="register.cpp">
+      <Filter>Файлы заголовков\Register\Файлы ресурсов\Register\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="register_messages.cpp">
+      <Filter>Файлы заголовков\Register\Файлы ресурсов\Register\Messages</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>Файлы заголовков\Register\Файлы ресурсов\Menu\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="menu_messages.cpp">
+      <Filter>Файлы заголовков\Register\Файлы ресурсов\Menu\Messages</Filter>
+    </ClCompile>
+    <ClCompile Include="check_balance.cpp">
+      <Filter>Файлы заголовков\Register\Файлы ресурсов\Check Balance\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="deposit_card.cpp">
+      <Filter>Файлы заголовков\Register\Файлы ресурсов\Deposit\Deposit Card\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="deposit_card_messages.cpp">
+      <Filter>Файлы заголовков\Register\Файлы ресурсов\Deposit\Deposit Card\Messages</Filter>
+    </ClCompile>
+    <ClCompile Include="deposit_redirector.cpp">
+      <Filter>Файлы заголовков\Register\Файлы ресурсов\Deposit\Deposit Redirector\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="deposit_redirector_messages.cpp">
+      <Filter>Файлы заголовков\Register\Файлы ресурсов\Deposit\Deposit Redirector\Messages</Filter>
+    </ClCompile>
+    <ClCompile Include="deposit_phone.cpp">
+      <Filter>Файлы заголовков\Register\Файлы ресурсов\Deposit\Deposit Phone\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="deposit_phone_messages.cpp">
+      <Filter>Файлы заголовков\Register\Файлы ресурсов\Deposit\Deposit Phone\Messages</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="register.h">
+      <Filter>Файлы заголовков\Register\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="register_message.h">
+      <Filter>Файлы заголовков\Register\Messages</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Файлы заголовков\Menu\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="menu_messages.h">
+      <Filter>Файлы заголовков\Menu\Messages</Filter>
+    </ClInclude>
+    <ClInclude Include="check_balance.h">
+      <Filter>Файлы заголовков\Check Balance</Filter>
+    </ClInclude>
+    <ClInclude Include="deposit_redirector.h">
+      <Filter>Файлы заголовков\Deposit\Deposit Redirector\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="deposit_redirector_messages.h">
+      <Filter>Файлы заголовков\Deposit\Deposit Redirector\Messages</Filter>
+    </ClInclude>
+    <ClInclude Include="deposit_card_messages.h">
+      <Filter>Файлы заголовков\Deposit\Deposit Card\Messages</Filter>
+    </ClInclude>
+    <ClInclude Include="deposit_card.h">
+      <Filter>Файлы заголовков\Deposit\Deposit Card\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="deposit_phone.h">
+      <Filter>Файлы заголовков\Deposit\Deposit Phone\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="deposit_phone_messages.h">
+      <Filter>Файлы заголовков\Deposit\Deposit Phone\Messages</Filter>
+    </ClInclude>
+    <ClInclude Include="key.h">
+      <Filter>Файлы заголовков\Stuff</Filter>
+    </ClInclude>
+    <ClInclude Include="other.h">
+      <Filter>Файлы заголовков\Stuff</Filter>
+    </ClInclude>
+    <ClInclude Include="user.h">
+      <Filter>Файлы заголовков\Stuff</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
